@@ -1,0 +1,12 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+# Hardware configuration for Assignment #3
+# CMPSC311 - Spring 2020 - Prof. McDaniel
+
+5 10 64
+9 100 100
+10 5 6
+12 32 64
+14 10 20
